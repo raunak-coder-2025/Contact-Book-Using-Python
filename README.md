@@ -26,7 +26,7 @@ A simple and interactive command-line **Contact Book** built with Python. It all
 ---
 ## Navigate to the Project Folder
    ```bash
-cd contact-book
+cd contact book list.json
 ```
 
 ---
