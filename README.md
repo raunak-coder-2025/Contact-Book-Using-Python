@@ -38,14 +38,17 @@ contact_book.py
 
 ---
 
-## Project structure
 
-contact-book/
-│
-├── contact_book.py         # Main Python script
-├── contact book list.json  # Auto-created JSON file to store contacts
-├── screenshot.png          # App screenshot (optional but recommended)
-└── README.md               # Project documentation
+## Screenshot
+![Screenshot](screenshot.jpg)
 
 ---
 
+## Author
+**Raunak Raj**  
+[GitHub Profile](https://github.com/raunak-coder-2025)
+
+---
+
+## License
+This project is open-source and free to use under the [MIT License](LICENSE).
